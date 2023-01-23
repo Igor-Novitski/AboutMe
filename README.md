@@ -7,7 +7,7 @@
 
 [![](https://www.codewars.com/users/Igor-Novitski/badges/large)](https://www.codewars.com/users/Igor-Novitski)
 
-I want to advance in skills and knowledge. I would like to to become the developer which you really need)
+I want to advance in skills and knowledge. I would like to become the developer which you really need)
 
 ## **Skills & Technologies**
 
